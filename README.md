@@ -10,7 +10,7 @@ Creation of food order and delivery system that allows users to order food of th
 
 Download:
 ```bash
-$ git clone https://github.com/priyal-babel/Food-Delivery-System.git
+$ git clone https://github.com/pjayakar/Food-Delivery-System.git
 ```
 ```bash
 $ cd Food-Delivery-System/New Restaurant/src/com/company
